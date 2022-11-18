@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: #DDDFDE;
+    padding: 25px;
+
+}
+
+.columns {
+    max-width: 1000px;
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: flex-start;
+    /* align-items: flex-start;        */
+}
+.column-left {
+    /* flex-shrink: 0; */
+    width: 370px;
+    height: 500px;
+    margin: 50px 25px 50px 50px;
+    background-color: black;
+}
+
+.column-right {
+    min-width: 200px;
+    max-width: 480px;
+    height: 500px;
+    margin: 50px 50px 50px 25px;
+    background-color: aquamarine;
+    flex: 1;
+}
+
+.user {
+    background-color: beige;
+}
+.contacts {
+}
+.home {
+}
+.city {
+}
+.phone {
+}
+.phone-number {
+}
+.e-mail {
+}
+.github {
+}
+.stacks {
+}
+.stack {
+}
+.skills {
+}
+.skill {
+}
+.education {
+}
+.institution {
+}
+.name-cource {
+}
+
+.aboutme {
+}
+.about {
+}
+.projects {
+}
+.project {
+}
+.project-year {
+}
+.work-experience {
+}
+.work {
+}
+.job-title {
+}
+.company {
+}
+.description {
+}
